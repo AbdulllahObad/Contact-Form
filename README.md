@@ -1,6 +1,6 @@
 # Contact-Form
 
-Form Features:\
+Form Features:
 -Responsive
 - Validation From Client Side
 - Validation From Server Side 
