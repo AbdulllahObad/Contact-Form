@@ -1,0 +1,74 @@
+body{
+      background-color: #f1f1f1;
+}
+
+
+form {
+       max-width: 450px;
+      margin: 10px auto;
+}
+
+form .form-group{
+       margin-bottom: 0;
+       position: relative;
+}
+
+
+form input,
+form textarea {
+       margin-bottom: 5px;
+}
+
+h1 {
+text-align: center;
+font-weight: 900;
+font-size: 50px;
+letter-spacing: -2px;
+color: #6f6a6a;
+}
+
+
+
+form textarea {
+       height: 180px !important;
+}
+
+.fa-user,
+.fa-envelope,
+.fa-phone{ 
+height: 0;
+float: left;
+top: -31px;
+left: 7px;
+position: relative;
+color: #a4a4b1;
+}
+
+.form-control{
+padding-left: 23px;
+}
+
+.container .form-group span{
+    float: right;
+    height: 0;
+    font-size: 22px;
+    color: #b90d0d;
+    position: absolute;
+    right: 10px;
+    top: 6px;
+}
+
+
+.fa-send{
+     display: block; 
+     position: relative;
+     top: -32px;
+     left: 7px;
+     color: #fff; 
+}
+
+.alert-danger{
+padding:5px 10px ;
+margin-bottom: 7px;
+display: none;
+}
